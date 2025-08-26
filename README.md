@@ -5,7 +5,7 @@ Easily **add, check, and delete tasks**, with **localStorage support** to keep y
 
 
 📸 Screenshot
-![To-Do List Preview](images/to-do list.png) <!-- Your uploaded screenshot -->
+![To-Do List Preview] (images/To-Do List.png) <!-- Your uploaded screenshot -->
 
 ---
 
@@ -29,15 +29,20 @@ Easily **add, check, and delete tasks**, with **localStorage support** to keep y
 ## 📂 Project Setup
 1. Clone the repository  
    ```bash
-   [git clone https://github.com/Harish-HRK/To-Do-List.git]
+   [  git clone https://github.com/Harish-HRK/To-Do-List.git  ]
 
 
 ## 🚀 Future Improvements
+
 Dark/Light mode toggle 🌙☀️
+
 Edit task feature ✏️
+
 Clear all tasks button 🧹
+
 Task categories/tags 📂
 
 ## 👨‍💻 Author
 Hariramakrishnan S
+
 GitHub: @Harish-HRK
